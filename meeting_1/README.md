@@ -1,6 +1,6 @@
 # Jobsheet-01 Konsep Basis Data
 **Praktikum Basis Data Pertemuan 1**
-### Table of Content
+# Table of Content
 [Praktikum 1](https://github.com/lieeh/learn_database/tree/main/meeting_1#praktikum-1)
 
 [Praktikum 2](https://github.com/lieeh/learn_database/tree/main/meeting_1#praktikum-2)
