@@ -45,7 +45,7 @@ Input data
 
 **Answer :** **Solusi yang terpikirkan dikepala saya ada 2, yang pertama yaitu menghapus penjualan dengan kode penjualan 2 yang sudah ada, atau mengganti kode penjualan data yang akan ditambahkan dengan kode penjualan bervalue 4.**
 
-**Question 4.**** add data "detail_penjualan"**
+**Question 4. add data "detail_penjualan"**
 - kode_penjualan = 2 
 - kode_barang = 3 
 - harga = 5.000 
@@ -58,7 +58,7 @@ Input data
 
 ****Answer :** No Answer, data dapat ditambah dengan lancar tanpa kendala, tidak perlu solusi**
 
-****Question 6.** Terangkan apa yang bisa anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data
+**Question 6. Terangkan apa yang bisa anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data**
 
 **Answer :** setelah melakukan praktikum sampai tahap ini, kita tidak dapat menginput data yang sudah ada atau tidak bisa menduplikasi data, seperti pada soal 2, kita tidak bisa menginput data karena kode penjualan 2 sudah ada. inkosisten data yang saya pahami adalah munculnya data yang tidak konsisten pada kolom yang sama, dalam satu atau beberapa file data yang dihubungkan.**
 
