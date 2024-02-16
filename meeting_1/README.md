@@ -97,6 +97,8 @@ alasannya**
 
 **> Answer :** **meskipun relasi kedua data dihapus, tetap saja data penjualan ke 2 sudah ada, tetap tidak bisa di tambahkan dengan kode penjualan 2.**
 
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting_1#table-of-content)
+
 
 
 
