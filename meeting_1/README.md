@@ -78,7 +78,7 @@
 
 **> Answer :** **Tidak bisa, dikarenakan data kode penjualan 2 sudah ada, dan tidak bisa diduplikasi**
 
-**deleting "detail_penjualan" and "data penjualan" relationship**
+**> deleting "detail_penjualan" and "data penjualan" relationship**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/0fc09ec4-fad7-4782-9a72-733ee9755a98)
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/ab7443f4-896f-431e-a74c-983180a73906)
 
