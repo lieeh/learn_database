@@ -19,7 +19,7 @@ import "penjualan_produk.sql" file
 **> Designer Menu**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/9cc7d2f0-3085-4d65-a676-e0200d0c38be)
 
-Input data
+**data "barang"**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/3cf1c215-c905-438e-8d8d-8bc6192e7453)
 
 **Praktikum 3**
