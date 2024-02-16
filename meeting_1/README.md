@@ -1,4 +1,4 @@
-# learn_database
+# Jobsheet-01 Konsep Basis Data
 **Praktikum Basis Data Pertemuan 1**
 
 # Praktikum 1
