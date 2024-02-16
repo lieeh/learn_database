@@ -1,7 +1,7 @@
 # learn_database
 **Praktikum Basis Data Pertemuan 1**
 
-**Praktikum 1**
+# Praktikum 1
 
 **Starting Apache and MySQL with XAMPP**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/c022526c-5328-41c4-a189-7924e6896868)
@@ -17,14 +17,14 @@ import "penjualan_produk.sql" file
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/63bc9e37-fb3b-4895-b97d-48620ba4942b)
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/415e3240-9f39-4e82-a1bc-17f9129a51e9)
 
-**Praktikum 2**
+# Praktikum 2
 **> Designer Menu**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/9cc7d2f0-3085-4d65-a676-e0200d0c38be)
 
 **data "barang"**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/3cf1c215-c905-438e-8d8d-8bc6192e7453)
 
-**Praktikum 3**
+# Praktikum 3
 ****Question 1.** add data "penjualan" :**
 - kode_penjualan = 3 
 - tgl = 8 Februari 2021
@@ -64,7 +64,7 @@ import "penjualan_produk.sql" file
 
 **Answer :** setelah melakukan praktikum sampai tahap ini, kita tidak dapat menginput data yang sudah ada atau tidak bisa menduplikasi data, seperti pada soal 2, kita tidak bisa menginput data karena kode penjualan 2 sudah ada. inkosisten data yang saya pahami adalah munculnya data yang tidak konsisten pada kolom yang sama, dalam satu atau beberapa file data yang dihubungkan.**
 
-**Praktikum 4**
+# Praktikum 4
 **add data "detail_penjualan"**
 - kode_penjualan = 2 
 - kode_barang = 3 
