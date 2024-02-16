@@ -42,7 +42,9 @@ Input data
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/24c5da0a-7993-4a7d-beec-d91a95508e7a)
 
 **Question 3.** **Jelaskan bagaimana solusi agar data pada soal 2 dapat ditambahkan**
+
 **Answer :** **Solusi yang terpikirkan dikepala saya ada 2, yang pertama yaitu menghapus penjualan dengan kode penjualan 2 yang sudah ada, atau mengganti kode penjualan data yang akan ditambahkan dengan kode penjualan bervalue 4.**
+
 **Question 4.**** add data "detail_penjualan"**
 - kode_penjualan = 2 
 - kode_barang = 3 
@@ -53,8 +55,12 @@ Input data
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/4359a47e-bcca-47ba-85f6-2f516849a51e)
 
 ****Question 5.** Jelaskan bagaimana solusi agar data pada soal 4 dapat ditambahkan**
+
 ****Answer :** No Answer, data dapat ditambah dengan lancar tanpa kendala, tidak perlu solusi**
-****Question 6.** setelah melakukan praktikum sampai tahap ini, kita tidak dapat menginput data yang sudah ada atau tidak bisa menduplikasi data, seperti pada soal 2, kita tidak bisa menginput data karena kode penjualan 2 sudah ada. inkosisten data yang saya pahami adalah munculnya data yang tidak konsisten pada kolom yang sama, dalam satu atau beberapa file data yang dihubungkan.**
+
+****Question 6.** Terangkan apa yang bisa anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data
+
+**Answer :** setelah melakukan praktikum sampai tahap ini, kita tidak dapat menginput data yang sudah ada atau tidak bisa menduplikasi data, seperti pada soal 2, kita tidak bisa menginput data karena kode penjualan 2 sudah ada. inkosisten data yang saya pahami adalah munculnya data yang tidak konsisten pada kolom yang sama, dalam satu atau beberapa file data yang dihubungkan.**
 
 **Praktikum 4**
 **add data "detail_penjualan"**
@@ -67,7 +73,9 @@ Input data
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/9f7d9ad3-922c-44d0-a79b-a181e458e1fa)
 
 **Question 7.** **Apakah data dapat ditambahkan? Jelaskan alasannya !**
+
 **Answer :** **Tidak bisa, dikarenakan data kode penjualan 2 sudah ada, dan tidak bisa diduplikasi**
+
 **deleting "detail_penjualan" and "data penjualan" relationship**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/0fc09ec4-fad7-4782-9a72-733ee9755a98)
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/ab7443f4-896f-431e-a74c-983180a73906)
