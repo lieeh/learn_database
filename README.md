@@ -45,10 +45,32 @@ Praktikum Basis Data Pertemuan 1
 > **Question 5.** Jelaskan bagaimana solusi agar data pada soal 4 dapat ditambahkan
 > **Answer :** No Answer, data dapat ditambah dengan lancar tanpa kendala, tidak perlu solusi
 > **Question 6.** setelah melakukan praktikum sampai tahap ini, kita tidak dapat menginput data yang sudah ada atau tidak bisa menduplikasi data, seperti pada soal 2, kita tidak bisa menginput data karena kode penjualan 2 sudah ada. inkosisten data yang saya pahami adalah munculnya data yang tidak konsisten pada kolom yang sama, dalam satu atau beberapa file data yang dihubungkan.
-<p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/TDeoEhj.jpg">
-</p>
-> 
+
+**Praktikum 4**
+> add data "detail_penjualan"
+- kode_penjualan = 2 
+- kode_barang = 3 
+- harga = 5.000 
+- jumlah = 5
+> ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/aada7b19-b4de-40a6-b8b3-f2a706f7ee3d)
+> ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/9f7d9ad3-922c-44d0-a79b-a181e458e1fa)
+> **Question 7.** Apakah data dapat ditambahkan? Jelaskan alasannya !
+> **Answer :** Tidak bisa, dikarenakan data kode penjualan 2 sudah ada, dan tidak bisa diduplikasi
+> deleting "detail_penjualan" and "data penjualan" relationship
+> ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/0fc09ec4-fad7-4782-9a72-733ee9755a98)
+> ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/ab7443f4-896f-431e-a74c-983180a73906)
+> **Last Question**. Ulangi kembali langkah ke-1 pada praktikum 4. Apakah data dapat ditambahkan? jelaskan 
+alasannya
+> ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/866256a7-f760-454e-bbb7-1a5802953e17)
+> ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/e9425daa-2d55-4f3b-8ea4-e517e035cfd5)
+> **Answer :** meskipun relasi kedua data dihapus, tetap saja data penjualan ke 2 sudah ada, tetap tidak bisa di tambahkan dengan kode penjualan 2.
+
+
+
+
+
+
+
 
 
 
