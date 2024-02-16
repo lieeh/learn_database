@@ -1,13 +1,13 @@
 # learn_myphpadmin
 **Praktikum Basis Data Pertemuan 1**
 **Praktikum 1**
-**> Starting Apache and MySQL with XAMPP**
+**Starting Apache and MySQL with XAMPP**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/c022526c-5328-41c4-a189-7924e6896868)
 
-**> Starting phpMyAdmin in web browser**
+**Starting phpMyAdmin in web browser**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/6c74d119-abf8-4a57-9228-9500589a6c8c)
 
-**> Create database with name : "penjualan_produk"**
+**Create database with name : "penjualan_produk"**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/04a73752-c771-4c3a-87ed-abe9cde3b25e)
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/2f290d29-8ac5-470d-b330-6cf30fa483f5)
 
@@ -18,11 +18,12 @@ import "penjualan_produk.sql" file
 **Praktikum 2**
 **> Designer Menu**
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/9cc7d2f0-3085-4d65-a676-e0200d0c38be)
+
 Input data
 ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/3cf1c215-c905-438e-8d8d-8bc6192e7453)
 
 **Praktikum 3**
-**> **Question 1.** add data "penjualan" :**
+****Question 1.** add data "penjualan" :**
 - kode_penjualan = 3 
 - tgl = 8 Februari 2021
 - kasir = Dini 
