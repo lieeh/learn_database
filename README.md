@@ -45,7 +45,7 @@ Praktikum Basis Data Pertemuan 1
 > **Question 5.** Jelaskan bagaimana solusi agar data pada soal 4 dapat ditambahkan
 > **Answer :** No Answer, data dapat ditambah dengan lancar tanpa kendala, tidak perlu solusi
 > **Question 6.** setelah melakukan praktikum sampai tahap ini, kita tidak dapat menginput data yang sudah ada atau tidak bisa menduplikasi data, seperti pada soal 2, kita tidak bisa menginput data karena kode penjualan 2 sudah ada. inkosisten data yang saya pahami adalah munculnya data yang tidak konsisten pada kolom yang sama, dalam satu atau beberapa file data yang dihubungkan.
-><p align="center">
+<p align="center">
   <img width="460" height="300" src="https://i.imgur.com/TDeoEhj.jpg">
 </p>
 > 
