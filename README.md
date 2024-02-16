@@ -3,7 +3,7 @@ Praktikum Basis Data Pertemuan 1
 - **Praktikum 1**
 > Starting Apache and MySQL with XAMPP
 <p align="center">
-  <img width="460" height="300" src="(https://github.com/lieeh/learn_myphpadmin/assets/150438523/c022526c-5328-41c4-a189-7924e6896868)">
+  <img width="460" height="300" src="![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/c022526c-5328-41c4-a189-7924e6896868)">
 </p>
 > ![image](https://github.com/lieeh/learn_myphpadmin/assets/150438523/c022526c-5328-41c4-a189-7924e6896868)
 > Starting phpMyAdmin in web browser
