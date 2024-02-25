@@ -35,4 +35,4 @@
 
 ![Praktikum Task 4](https://github.com/lieeh/learn_database/assets/150438523/d9cb0b93-4755-45cb-9f06-0cd1eebbc3ec)
 
-[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting_1#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/blob/main/meeting-2/README.md#table-of-content)
