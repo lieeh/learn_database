@@ -1,7 +1,7 @@
 # Jobsheet-02 KKonsep Basis Data Relasional
 **Praktikum Basis Data Pertemuan 1**
 # Table of Content
-[Praktikum 1](hhttps://github.com/lieeh/learn_database/blob/main/meeting-2/README.md#praktikum-1)
+[Praktikum 1](https://github.com/lieeh/learn_database/blob/main/meeting-2/README.md#praktikum-1)
 
 [Praktikum 2](https://github.com/lieeh/learn_database/blob/main/meeting-2/README.md#praktikum-2)
 
