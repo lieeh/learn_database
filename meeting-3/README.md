@@ -1,15 +1,15 @@
 # Jobsheet-03 ERD
 **Praktikum Basis Data Pertemuan 3**
 # Table of Content
-[Question]()
+[Question](https://github.com/lieeh/learn_database/tree/main/meeting-3#question)
 
-[Step 1]()
+[Step 1](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-1)
 
-[Step 2]()
+[Step 2](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-2)
 
-[Step 3]()
+[Step 3](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-3)
 
-[Step 4]()
+[Step 4](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-4)
 
 # Question
 
@@ -25,7 +25,7 @@ buyer or customer data, product data, order data, payment data and admin data. N
 
 # Step 2
 
-A![image](https://github.com/lieeh/learn_database/assets/150438523/a387c46d-3f23-4136-abed-ea9e0febd0f4)
+![image](https://github.com/lieeh/learn_database/assets/150438523/a387c46d-3f23-4136-abed-ea9e0febd0f4)
 
 
 # Step 3
@@ -38,4 +38,4 @@ A![image](https://github.com/lieeh/learn_database/assets/150438523/a387c46d-3f23
 ![image](https://github.com/lieeh/learn_database/assets/150438523/47fb63b2-a3ed-43f9-b345-1b262a192e16)
 
 
-[back to Table of Content](https://github.com/lieeh/learn_database/blob/main/meeting-2/README.md#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-3#table-of-content)
