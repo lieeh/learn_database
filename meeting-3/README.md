@@ -1,7 +1,7 @@
 # Jobsheet-03 ERD
 **Praktikum Basis Data Pertemuan 3**
 # Table of Content
-[Question](https://github.com/lieeh/learn_database/tree/main/meeting-3#question)
+[Question 1](https://github.com/lieeh/learn_database/tree/main/meeting-3#question)
 
 [Step 1](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-1)
 
@@ -11,7 +11,17 @@
 
 [Step 4](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-4)
 
-# Question
+[Question 2]()
+
+[Step 1]()
+
+[Step 2]()
+
+[Step 3]()
+
+[Step 4]()
+
+# Question 1
 
 **> ID : Buatlah rancangan sebuah database untuk toko online. Data-data yang akan ditanganinya adalah:
 data pembeli atau customer, data produk, data order, data pembayaran dan data admin. Perlu dicatat data transaksi pembelian seperti kode yang unik, tgl_pembelian, total_pembayaran. Pembeli bisa membeli banyak barang dalam satu transaksi, produk bisa dibeli oleh banyak pembeli. Perlu dicatat jumlah dan harga dari barang yang dibeli dalam satu transaksi pembelian. Dalam pembelian juga perlu dicatat admin yang menangani pembelian. Setiap admin perlu dicatat kode yang unik, nama, alamat, dan nomor_hp. Data pembeli yang perlu dicatat adalah kode yang unik, nama, alamat, no_hp. Sedangkan data produk yang perlu dicatat adalah kode yang unik, nama, satuan, harga, stok, dan keterangan. Buatlah ER Diagram manual untuk kasus tersebut dari tahap 1 sampai 4!**
@@ -36,6 +46,32 @@ buyer or customer data, product data, order data, payment data and admin data. N
 # Step 4
 
 ![image](https://github.com/lieeh/learn_database/assets/150438523/47fb63b2-a3ed-43f9-b345-1b262a192e16)
+
+# Question 2
+
+**> ID :Ambil contoh database dari yang anda gunakan pada tugas jobsheet sebelumnya. Buatlah rancangan ER Diagram manual database tersebut dari tahap 1-4.**
+
+**> EN : Take the sample database from the one you used in the previous jobsheet assignment. Create a draft a manual ER Diagram of the database from steps 1-4.**
+
+![image](https://github.com/lieeh/learn_database/assets/150438523/d2143d3b-5922-4d0b-a107-fdae6cad4b0b)
+
+
+# Step 1
+
+![image](https://github.com/lieeh/learn_database/assets/150438523/86d9fb43-775a-4b65-99ea-24146bc08acf)
+
+# Step 2
+
+![image](https://github.com/lieeh/learn_database/assets/150438523/01fef22d-2a97-48d7-b65f-68de8c55e4c0)
+
+# Step 3
+
+![image](https://github.com/lieeh/learn_database/assets/150438523/0fd49552-0f71-4d32-aa95-61779e49e11d)
+
+# Step 4
+
+![image](https://github.com/lieeh/learn_database/assets/150438523/ecf592e0-7f62-47ab-82f8-56abcdfaa6ff)
+
 
 
 [back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-3#table-of-content)
