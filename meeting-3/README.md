@@ -11,15 +11,15 @@
 
 [Step 4](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-4)
 
-[Question 2]()
+[Question 2](https://github.com/lieeh/learn_database/tree/main/meeting-3#question-2)
 
-[Step 1]()
+[Step 1](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-1-1)
 
-[Step 2]()
+[Step 2](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-2-1)
 
-[Step 3]()
+[Step 3](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-3-1)
 
-[Step 4]()
+[Step 4](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-4-1)
 
 # Question 1
 
