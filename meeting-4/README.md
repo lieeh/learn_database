@@ -1,17 +1,17 @@
 # Jobsheet-04 ERD bag 2
 **Praktikum Basis Data Pertemuan 4**
 # Table of Content
-[Question 1](https://github.com/lieeh/learn_database/tree/main/meeting-3#question)
+[Question 1](https://github.com/lieeh/learn_database/tree/main/meeting-4#question-1)
 
-[ERD Chen](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-1)
+[ERD Chen](https://github.com/lieeh/learn_database/tree/main/meeting-4#erd-chen-)
 
-[ERD Martin](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-2)
+[ERD Martin](https://github.com/lieeh/learn_database/tree/main/meeting-4#erd-martin)
 
-[Question 2](https://github.com/lieeh/learn_database/tree/main/meeting-3#question-2)
+[Question 2](https://github.com/lieeh/learn_database/tree/main/meeting-4#question-2)
 
-[ERD Chen](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-1-1)
+[ERD Chen](https://github.com/lieeh/learn_database/tree/main/meeting-4#erd-chen--1)
 
-[ERD Martin](https://github.com/lieeh/learn_database/tree/main/meeting-3#step-2-1)
+[ERD Martin](https://github.com/lieeh/learn_database/tree/main/meeting-4#erd-martin-)
 
 # Question 1
 
@@ -42,4 +42,4 @@
 
 ![image](https://github.com/lieeh/learn_database/assets/150438523/1507929e-0c37-4356-bb5f-c8e94a09ecf7)
 
-[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-3#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-4#table-of-content)
