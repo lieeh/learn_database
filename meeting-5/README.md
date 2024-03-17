@@ -1,9 +1,9 @@
 # Jobsheet-04 ERD bag 3 Latihan Soal
 **Praktikum Basis Data Pertemuan 5**
 # Table of Content
-[Question](https://github.com/lieeh/learn_database/tree/main/meeting-4#question-1)
+[Question](https://github.com/lieeh/learn_database/tree/main/meeting-5#question-1)
 
-[ERD Chen](https://github.com/lieeh/learn_database/tree/main/meeting-4#erd-chen-)
+[ERD Chen](https://github.com/lieeh/learn_database/tree/main/meeting-5#erd-chen-)
 
 # Question 1
 
@@ -16,4 +16,4 @@
 ![image](https://github.com/lieeh/learn_database/assets/150438523/bda93470-df78-491f-8802-4af59ddb1992)
 
 
-[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-4#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-5#table-of-content)
