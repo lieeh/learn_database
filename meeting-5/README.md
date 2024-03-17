@@ -11,7 +11,7 @@
 
 **> EN : In a kindergarten to facilitate monitoring of current student, class, and teacher data, it is necessary to create a database. Class data that needs to be recorded such as unique class names and descriptions. Each class has one teacher as homeroom teacher. Each class also has one assistant teacher. Teacher data that needs to be recorded is a unique code, name, address, one cellphone number, place and date of birth. Each class has many students. Student data that needs to be recorded is a unique code, name, address, father's name, mother's name, parent's cellphone number, hobby, student status (data can contain active or inactive), place and date of birth, and age. Each student can have more than one hobby.**
 
-# ERD CHen :
+# ERD Chen :
 
 ![image](https://github.com/lieeh/learn_database/assets/150438523/bda93470-df78-491f-8802-4af59ddb1992)
 
