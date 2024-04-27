@@ -1,25 +1,30 @@
 # Making Database Table
 **Praktikum Basis Data Pertemuan 8**
+
+# Tools
+**1. Tableplus Build 272**<br>
+**2. MySQL Database Server v8.0.36.0**
+
 # Table of Content
-[Question]()
+[Question](https://github.com/lieeh/learn_database/tree/main/meeting-8#question)
 
-[ERD Diagram]()
+[ERD Diagram](https://github.com/lieeh/learn_database/tree/main/meeting-8#erd-diagram-)
 
-[Information]()
+[Information](https://github.com/lieeh/learn_database/tree/main/meeting-8#information)
 
-[Event/Acara Table]()
+[Event/Acara Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#eventacara-table-)
 
-[Committee/Kepanitiaan Table]()
+[Committee/Kepanitiaan Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#committeekepanitiaan-table-)
 
-[Emploee/Pegawai Table]()
+[Emploee/Pegawai Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#emploeepegawai-table-)
 
-[School/Sekolah Table]()
+[School/Sekolah Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#schoolsekolah-table-)
 
-[Student/Siswa Table]()
+[Student/Siswa Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#studentsiswa-table-)
 
-[Team/Tim Table]()
+[Team/Tim Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#teamtim-table-)
 
-[Tournament/Turnamen Table]()
+[Tournament/Turnamen Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#tournamentturnamen-table-)
 
 # Question 
 
@@ -69,4 +74,4 @@ In one event, several teams are required to compete and one event will be handle
 
 ![image](https://github.com/lieeh/learn_database/assets/150438523/3a80a7ab-2c18-49ea-ab83-93ded8805e3d)
 
-[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-4#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-8#table-of-content)
