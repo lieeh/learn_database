@@ -1,23 +1,23 @@
 # Jobsheet-06 ERD to Relational 
 **Praktikum Basis Data Pertemuan 7**
 # Table of Content
-[Question 1](https://github.com/lieeh/learn_database/new/main#question-1)
+[Question 1](https://github.com/lieeh/learn_database/tree/main/meeting-7#question-1)
 
-[CDM Q1](https://github.com/lieeh/learn_database/new/main#cdm-)
+[CDM Q1](https://github.com/lieeh/learn_database/tree/main/meeting-7#cdm-)
 
-[PDM Q1](https://github.com/lieeh/learn_database/new/main#pdm-)
+[PDM Q1](https://github.com/lieeh/learn_database/tree/main/meeting-7#pdm-)
 
-[Question 2](https://github.com/lieeh/learn_database/new/main#question-2)
+[Question 2](https://github.com/lieeh/learn_database/tree/main/meeting-7#question-2)
 
-[CDM Q2](https://github.com/lieeh/learn_database/new/main#cdm--1)
+[CDM Q2](https://github.com/lieeh/learn_database/tree/main/meeting-7#cdm--1)
 
-[PDM Q2](https://github.com/lieeh/learn_database/new/main#pdm--1)
+[PDM Q2](https://github.com/lieeh/learn_database/tree/main/meeting-7#pdm--1)
 
-[Question 3](https://github.com/lieeh/learn_database/new/main#question-3)
+[Question 3](https://github.com/lieeh/learn_database/tree/main/meeting-7#question-3)
 
-[CDM Q2](https://github.com/lieeh/learn_database/new/main#cdm--2)
+[CDM Q2](https://github.com/lieeh/learn_database/tree/main/meeting-7#cdm--2)
 
-[PDM Q2](https://github.com/lieeh/learn_database/new/main#pdm--2)
+[PDM Q2](https://github.com/lieeh/learn_database/tree/main/meeting-7#pdm--2)
 
 # Question 1
 
@@ -132,4 +132,4 @@ written or not written in the menu provided. Existing menu items consist of many
 ![image](https://github.com/lieeh/learn_database/assets/150438523/e6261f55-1fe3-4017-8aa6-40c4cdf7cdc2)
 
 
-[back to Table of Content](https://github.com/lieeh/learn_database/new/main#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-7#table-of-content)
