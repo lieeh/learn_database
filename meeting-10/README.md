@@ -2,25 +2,19 @@
 **Praktikum Basis Data Pertemuan 10 (JOBSHEET 11 )**
 
 # Table of Content
-[Question](https://github.com/lieeh/learn_database/tree/main/meeting-8#question)
+[Adding agama's column](https://github.com/lieeh/learn_database/tree/main/meeting-10#adding-agamas-column-)
 
-[ERD Diagram](https://github.com/lieeh/learn_database/tree/main/meeting-8#erd-diagram-)
+[Adding alamat's column](https://github.com/lieeh/learn_database/tree/main/meeting-10#adding-alamats-column-)
 
-[Information](https://github.com/lieeh/learn_database/tree/main/meeting-8#information)
+[Insert values ](https://github.com/lieeh/learn_database/tree/main/meeting-10#insert-values-)
 
-[Event/Acara Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#eventacara-table-)
+[Show all tables](https://github.com/lieeh/learn_database/tree/main/meeting-10#show-all-tables-)
 
-[Committee/Kepanitiaan Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#committeekepanitiaan-table-)
+[Show mahasiswa's table contents](https://github.com/lieeh/learn_database/tree/main/meeting-10#show-mahasiswas-table-contents-)
 
-[Emploee/Pegawai Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#emploeepegawai-table-)
+[Show the structure (metadata) of the mahasiswa's table](https://github.com/lieeh/learn_database/tree/main/meeting-10#show-the-structure-metadata-of-the-mahasiswas-table-)
 
 [School/Sekolah Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#schoolsekolah-table-)
-
-[Student/Siswa Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#studentsiswa-table-)
-
-[Team/Tim Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#teamtim-table-)
-
-[Tournament/Turnamen Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#tournamentturnamen-table-)
 
 # Adding agama's column :
 
@@ -69,7 +63,7 @@ Take notes: Make a screenshot of the command you typed**
 
 ![add value prodi](https://github.com/lieeh/learn_database/assets/150438523/400b422f-b169-45ac-a250-5d109485c395)
 
-# Insert ruangs's values :
+# Insert ruang's values :
 
 ![add value ruang](https://github.com/lieeh/learn_database/assets/150438523/4c341dea-55b0-4180-855d-e1dbc60f7d17)
 
@@ -102,6 +96,8 @@ Catat : Buat Screenshot dari perintah yang anda ketikkan**
 Take notes: Screenshot the command you typed**
 
 ![metadata](https://github.com/lieeh/learn_database/assets/150438523/395544ef-99fe-411a-9df0-23c3b4fccb7a)
+
+#  Remove the asal_sma column :
 
 **> ID : hilangkan kolom asal_sma yang terdapat didalam tabel mahasiswa
 Catat : Buat Screenshot dari perintah yang anda ketikkan**
