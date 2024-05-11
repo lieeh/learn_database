@@ -14,7 +14,7 @@
 
 [Show the structure (metadata) of the mahasiswa's table](https://github.com/lieeh/learn_database/tree/main/meeting-10#show-the-structure-metadata-of-the-mahasiswas-table-)
 
-[School/Sekolah Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#schoolsekolah-table-)
+[Remove the asal_sma column](https://github.com/lieeh/learn_database/tree/main/meeting-10#remove-the-asal_sma-column-)
 
 # Adding agama's column :
 
