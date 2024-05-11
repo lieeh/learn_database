@@ -22,19 +22,6 @@
 
 [Tournament/Turnamen Table](https://github.com/lieeh/learn_database/tree/main/meeting-8#tournamentturnamen-table-)
 
-# Question 
-
-**> ID : Mengkonversi Diagram ERD ke Table Database**
-
-**> EN : Convert ERD Diagram to Database Table**
-
-# ERD Diagram :
-
-![image](https://github.com/lieeh/learn_database/assets/150438523/acb51883-030a-4436-b840-7e7f69616541)
-
-
-# Information
-
 # Adding agama's column :
 
 **> ID : Tambahkan sebuah kolom agama (varchar(10)) pada tabel mahasiswa sebagai kolom terakhir
@@ -125,4 +112,4 @@ Take notes: Make a screenshot of the command you typed**
 ![del asal_sma](https://github.com/lieeh/learn_database/assets/150438523/7e2ee9c5-db49-49eb-a7a1-1d0bfe2a99d6)
 
 
-[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-8#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-10#table-of-content)
