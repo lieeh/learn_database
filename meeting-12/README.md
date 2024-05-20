@@ -2,15 +2,15 @@
 **Praktikum Basis Data Pertemuan 12 (JOBSHEET 12 )**
 
 # Table of Content
-[Question 1 Practicum Photos](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-1-)
+[Question 1 Practicum Photos](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-1-practicum-photos-)
 
-[Question 2](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-2-)
+[Question 2](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-2-)
 
-[Question 3](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-3-)
+[Question 3](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-3-)
 
-[Question 4](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-4-)
+[Question 4](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-4-)
 
-[Question 5](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-5-)
+[Question 5](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-5-)
 
 # Question 1 Practicum Photos :
 
@@ -111,4 +111,4 @@ which is the earliest.**
 ![soal 5](https://github.com/lieeh/learn_database/assets/150438523/3cb796a5-30db-44e7-b2ae-4a030550329f)
 
 
-[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-11#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-12#table-of-content)
