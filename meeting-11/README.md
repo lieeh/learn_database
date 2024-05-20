@@ -2,19 +2,19 @@
 **Praktikum Basis Data Pertemuan 11 (JOBSHEET 11 )**
 
 # Table of Content
-[Adding agama's column](https://github.com/lieeh/learn_database/tree/main/meeting-10#adding-agamas-column-)
+[Question 1](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-1-)
 
-[Adding alamat's column](https://github.com/lieeh/learn_database/tree/main/meeting-10#adding-alamats-column-)
+[Question 2](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-2-)
 
-[Insert values ](https://github.com/lieeh/learn_database/tree/main/meeting-10#insert-values-)
+[Question 3](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-3-)
 
-[Show all tables](https://github.com/lieeh/learn_database/tree/main/meeting-10#show-all-tables-)
+[Question 4](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-4-)
 
-[Show mahasiswa's table contents](https://github.com/lieeh/learn_database/tree/main/meeting-10#show-mahasiswas-table-contents-)
+[Question 5](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-5-)
 
-[Show the structure (metadata) of the mahasiswa's table](https://github.com/lieeh/learn_database/tree/main/meeting-10#show-the-structure-metadata-of-the-mahasiswas-table-)
+[Question 6](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-6-)
 
-[Remove the asal_sma column](https://github.com/lieeh/learn_database/tree/main/meeting-10#remove-the-asal_sma-column-)
+[Qeustion 7](https://github.com/lieeh/learn_database/tree/main/meeting-11#question-7-)
 
 # Question 1 :
 
@@ -84,4 +84,4 @@ dosen pengampu mata kuliah basis data anda saat ini !**
 ![soal 7 3 ubah dosen basis data dasar mi 1a ](https://github.com/lieeh/learn_database/assets/150438523/51d412d2-d136-417e-b832-653818d93379)
 
 
-[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-10#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-11#table-of-content)
