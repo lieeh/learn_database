@@ -1,17 +1,17 @@
 # UAS DATABASE SEMESTER 2
 
 # Table of Content
-[Question 1 Practicum Photos](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-1-practicum-photos-)
+[Question 1](https://github.com/lieeh/learn_database/tree/main/uas#question-1-practicum-photos-)
 
-[Question 2](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-2-)
+[Question 2](https://github.com/lieeh/learn_database/tree/main/uas#question-2-)
 
-[Question 3](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-3-)
+[Question 3](https://github.com/lieeh/learn_database/tree/main/uas#question-3-)
 
-[Question 4](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-4-)
+[Question 4](https://github.com/lieeh/learn_database/tree/main/uas#question-4-)
 
-[Question 5](https://github.com/lieeh/learn_database/tree/main/meeting-12#question-5-)
+[Question 5](https://github.com/lieeh/learn_database/tree/main/uas#question-5-)
 
-# Question 1 Practicum Photos :
+# Question 1 :
 
 **> ID : Tampilkan daftar nama user
 dan tanggal lahirnya yang ber
@@ -55,4 +55,4 @@ berdasarkan jenis peliharaan.**
 
 
 
-[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/meeting-12#table-of-content)
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/uas#table-of-content)
