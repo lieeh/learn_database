@@ -1,11 +1,11 @@
 # UAS DATABASE SEMESTER 2 ke-2
 
 # Table of Content
-[Question 1]()
+[Question 1](https://github.com/lieeh/learn_database/tree/main/uas-2#question-1-)
 
-[Question 2]()
+[Question 2](https://github.com/lieeh/learn_database/tree/main/uas-2#question-2-)
 
-[Question 3]()
+[Question 3](https://github.com/lieeh/learn_database/tree/main/uas-2#question-3-)
 
 # Question 1 :
 
@@ -97,4 +97,4 @@
 
 ![ERD Weather 3](https://github.com/lieeh/learn_database/assets/150438523/4a69eedd-e194-4bfb-bbc2-28fe39c85f8b)
 
-[back to Table of Content]()
+[back to Table of Content](https://github.com/lieeh/learn_database/tree/main/uas-2#table-of-content)
