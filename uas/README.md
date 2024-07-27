@@ -19,7 +19,6 @@ jenis kelamin laki laki
 diurutkan dari yang
 termuda ke yang tertua**
 
-**> EN : CWhat is the syntax to display all the jadwal's columns on Thursday starting at 08:40? Show the output!**
 
 ![01QueryDemo](https://github.com/lieeh/learn_database/assets/150438523/fd269a71-5996-4557-8953-7dd207447970)
 
